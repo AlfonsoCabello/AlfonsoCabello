@@ -49,4 +49,21 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 ![](https://img.shields.io/badge/Tools-AmazonS3-informational?style=flat&logo=AmazonS3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AzureSQLDatabase-informational?style=flat&logo=AzureSQLDatabase&logoColor=white&color=4AB197)
 
+<br>
+<br>
+
+<h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I have learned and developed.
+</h4>
+
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.6%2C%203.7%2C%203.8%2C%203.9-green?style=for-the-badge"
+         alt="Python versions">
+  </a>
+  <a href="https://github.com/AlfonsoCabello">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge"
+         alt="My GitHub">
+  </a>
+  <br/>
+</p>
 
