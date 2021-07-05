@@ -11,3 +11,10 @@
 AlfonsoCabello/AlfonsoCabello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alfonso-cabello/)
+
+Hey there 👋
+
+I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
+Want to know more about me? [Check out my portfolio.](https://https://adobe.ly/3y6dIpz)
