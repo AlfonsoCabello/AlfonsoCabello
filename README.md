@@ -1,3 +1,5 @@
+<p align="center"><img width=43.5% src="https://https://github.com/AlfonsoCabello/AlfonsoCabello/blob/master/Cover.jpg"></p>
+
 - 👋 Hi, I’m @AlfonsoCabello and welcome to my Git!
 - 👀 I’m interested in Data Science, data exploration, creativity and problem solving.
 - 🌱 I’m currently learning about A/B testing, image recognition, basket analysis and demand prediction.
