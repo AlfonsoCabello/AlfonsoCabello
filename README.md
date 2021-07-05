@@ -29,10 +29,12 @@ Want to know more about my PowerBI projects? [Check out my portfolio.](https://a
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=DAX&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RubyOnRails-informational?style=flat&logo=RubyOnRails&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=4AB197)
+
 
 <br>
 
