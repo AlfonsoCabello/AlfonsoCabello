@@ -29,7 +29,7 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 <br>
 <br>
 
-## 💼 Skills
+## 😎Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
@@ -52,10 +52,11 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 <br>
 <br>
 
-<h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I have learned and developed.
+## 💼 Projects
+<h4 align="left">A master repository of all Data Science projects, concepts, tools and resources that I have learned and developed.
 </h4>
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.6%2C%203.7%2C%203.8%2C%203.9-green?style=for-the-badge"
          alt="Python versions">
