@@ -23,8 +23,13 @@ Want to know more about my PowerBI projects? [Check out my portfolio.](https://a
 <a href="https://github.com/AlfonsoCabello">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alfonsocabello&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
-
 <br>
 <br>
 
 ## 💼 Skills
+
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+
