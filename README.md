@@ -8,6 +8,8 @@ I’m Alfonso, a data scientist, creative coder and self-proclaimed designer who
 
 Want to know more about my PowerBI projects? [Check out my portfolio.](https://adobe.ly/3y6dIpz)
 
+Want to know more about my machine learning and deep learning projects? [keep reading.]
+
 
 <br>
 <br>
