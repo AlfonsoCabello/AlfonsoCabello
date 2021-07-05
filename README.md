@@ -85,9 +85,6 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 ## Some ML Projects Because my masters at McGill was the best...
 
 | Topic   |      Code      |
-|----------|:-------------:|------:|
+|----------|:-------------:|
 | Kaggle Titanic Survival Predictions| [Repo](https://github.com/yashprakash13/Kaggle-Titanic) |-------------------------------------) |
 | Haystack Search Engine on Arxiv Papers Dataset  | [Repo](https://github.com/yashprakash13/haystack-search-engine)   |-------------------------------------) |
-| Introduction To FastAI--with Transfer Learning| [Repo](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------) | [Blog](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------) |
-| Basic Sentiment Text Classification on Covid-19 Tweets with Fastai | [Code](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/Text%20Sentiment%20Classification(Covid-19%20Tweets).ipynb) | [Blog](https://towardsdatascience.com/text-classification-in-just-20-lines-of-code-8baf9c2a0a53?source=your_stories_page-------------------------------------)
-
