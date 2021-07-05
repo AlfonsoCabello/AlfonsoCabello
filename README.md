@@ -28,8 +28,20 @@ Want to know more about my PowerBI projects? [Check out my portfolio.](https://a
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-DAX-informational?style=flat&logo=DAX&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-RubyOnRails-informational?style=flat&logo=RubyOnRails&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Code-AmazonS3-informational?style=flat&logo=AmazonS3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AzureSQLDatabase-informational?style=flat&logo=AzureSQLDatabase&logoColor=white&color=4AB197)
 
 
