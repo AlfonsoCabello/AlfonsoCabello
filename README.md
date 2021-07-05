@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/AlfonsoCabello/AlfonsoCabello/blob/6538a800d45e5ca04017df5255300424e0ce427b/Cover.jpg" style="max-width:100%;"></p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alfonso-cabello/)
+[![Porfolio Badge](https://img.shields.io/badge/PowerBI-Portfolio-informational?style=flat&logo=PowerBI&logoColor=white&color=0D76A8)](https://adobe.ly/3y6dIpz)
 
 Hey there 👋
 
@@ -8,7 +9,7 @@ I’m Alfonso, a data scientist, creative coder and self-proclaimed designer who
 
 Want to know more about my PowerBI projects? [Check out my portfolio.](https://adobe.ly/3y6dIpz)
 
-Want to know more about my machine learning and deep learning projects? [keep reading.]
+Want to know more about my machine learning and deep learning projects? [Keep reading.]
 
 
 <br>
