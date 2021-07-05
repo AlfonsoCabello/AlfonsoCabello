@@ -68,3 +68,26 @@ Want to know more about my machine learning and deep learning projects? [Keep re
   <br/>
 </p>
 
+
+## Contents
+
+1. [ML Mini Projects Because Crash Courses Are The Best...](https://github.com/yashprakash13/data-another-day#ml-mini-projects-for-a-quick-learning-experience)
+2. [Python Cool Concepts Because Knowing Them Is Cool...](#python-cool-concepts-because-knowing-them-is-cool)
+3. [ML Fundamentals Because Everybody Starts Somewhere...](#ml-fundamentals-because-everybody-starts-somewhere)
+4. [A Data Scientist's Life Hacks](#a-data-scientists-life-hacks)
+5. [Fancy Little Data Thingies To Stimulate The Mind...](#fancy-little-data-thingies-to-stimulate-the-mind)
+6. [About Those Code Editors...hmmm](#about-those-code-editorshmmm)
+7. [Bash Essential Tricks To Make You Even More Lazy](#bash-essential-tricks-to-make-you-even-more-lazy)
+8. [End-To-End ML/DL Projects - These Took A Lot Of Time And Effort, yes...](#end-to-end-mldl-projects---these-took-a-lot-of-time-and-effort-yes)
+
+---
+
+## Some ML Projects Because my masters at McGill was the best...
+
+| Topic   |      Code      |
+|----------|:-------------:|------:|
+| Kaggle Titanic Survival Predictions| [Repo](https://github.com/yashprakash13/Kaggle-Titanic) |-------------------------------------) |
+| Haystack Search Engine on Arxiv Papers Dataset  | [Repo](https://github.com/yashprakash13/haystack-search-engine)   |-------------------------------------) |
+| Introduction To FastAI--with Transfer Learning| [Repo](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------) | [Blog](https://towardsdatascience.com/a-fast-introduction-to-fastai-my-experience-b18d4457f6a5?source=your_stories_page-------------------------------------) |
+| Basic Sentiment Text Classification on Covid-19 Tweets with Fastai | [Code](https://github.com/yashprakash13/RockPaperScissorsFastAI/blob/main/Text%20Sentiment%20Classification(Covid-19%20Tweets).ipynb) | [Blog](https://towardsdatascience.com/text-classification-in-just-20-lines-of-code-8baf9c2a0a53?source=your_stories_page-------------------------------------)
+
