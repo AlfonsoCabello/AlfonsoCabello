@@ -37,7 +37,7 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 ![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=DAX&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=SCSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScripts-informational?style=flat&logo=JavaScripts&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 
 
 <br>
