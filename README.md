@@ -72,7 +72,7 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 
 ## Contents
 
-1. [ML Mini Projects Because Crash Courses Are The Best...](https://github.com/yashprakash13/data-another-day#ml-mini-projects-for-a-quick-learning-experience)
+1. [ML Mini Projects Because Crash Courses Are The Best...](#)
 2. [Python Cool Concepts Because Knowing Them Is Cool...](#python-cool-concepts-because-knowing-them-is-cool)
 3. [ML Fundamentals Because Everybody Starts Somewhere...](#ml-fundamentals-because-everybody-starts-somewhere)
 4. [A Data Scientist's Life Hacks](#a-data-scientists-life-hacks)
@@ -87,5 +87,5 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 
 | Topic   |      Code      |
 |----------|:-------------:|
-| Kaggle Titanic Survival Predictions| [Repo](https://github.com/yashprakash13/Kaggle-Titanic) |-------------------------------------) |
-| Haystack Search Engine on Arxiv Papers Dataset  | [Repo](https://github.com/yashprakash13/haystack-search-engine)   |-------------------------------------) |
+| Kaggle Titanic Survival Predictions| [Repo]() |-------------------------------------) |
+| Haystack Search Engine on Arxiv Papers Dataset  | [Repo]()  |-------------------------------------) |
