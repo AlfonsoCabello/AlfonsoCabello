@@ -75,7 +75,7 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 
 ## Contents
 
-1. [ML Mini Projects Because Crash Courses Are The Best...](#)
+1. [Some ML Projects Because my masters at McGill was the best...](#)
 2. [Python Cool Concepts Because Knowing Them Is Cool...](#python-cool-concepts-because-knowing-them-is-cool)
 
 
