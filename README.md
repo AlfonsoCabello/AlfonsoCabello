@@ -11,8 +11,6 @@ Want to know more about my PowerBI projects? [Check out my portfolio.](https://a
 
 Want to know more about my machine learning and deep learning projects? [Keep reading.]
 
-
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
