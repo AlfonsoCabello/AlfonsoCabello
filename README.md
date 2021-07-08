@@ -53,7 +53,11 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 <br>
 <br>
 
+
+# ⚠️ -Projects- under construction - Updating weekly! ⚠️
+
 ## 💼 Projects
+
 <h4 align="left">A master repository of all Data Science projects, concepts, tools and resources that I have learned and developed.
 </h4>
 
@@ -68,8 +72,6 @@ Want to know more about my machine learning and deep learning projects? [Keep re
   </a>
   <br/>
 </p>
-
-# ⚠️ Sections under construction - Updating weekly! ⚠️
 
 ## Contents
 
