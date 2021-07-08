@@ -84,4 +84,4 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 
 | Topic   |      Code      |
 |----------|:-------------:|
-| Jobster | [Repo]() |-------------------------------------) |
+| Jobster | [Repo](https://github.com/AlfonsoCabello/Jobster) |-------------------------------------) |
