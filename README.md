@@ -69,17 +69,13 @@ Want to know more about my machine learning and deep learning projects? [Keep re
   <br/>
 </p>
 
+# ⚠️ Sections under construction - Updating weekly! ⚠️
 
 ## Contents
 
 1. [ML Mini Projects Because Crash Courses Are The Best...](#)
 2. [Python Cool Concepts Because Knowing Them Is Cool...](#python-cool-concepts-because-knowing-them-is-cool)
-3. [ML Fundamentals Because Everybody Starts Somewhere...](#ml-fundamentals-because-everybody-starts-somewhere)
-4. [A Data Scientist's Life Hacks](#a-data-scientists-life-hacks)
-5. [Fancy Little Data Thingies To Stimulate The Mind...](#fancy-little-data-thingies-to-stimulate-the-mind)
-6. [About Those Code Editors...hmmm](#about-those-code-editorshmmm)
-7. [Bash Essential Tricks To Make You Even More Lazy](#bash-essential-tricks-to-make-you-even-more-lazy)
-8. [End-To-End ML/DL Projects - These Took A Lot Of Time And Effort, yes...](#end-to-end-mldl-projects---these-took-a-lot-of-time-and-effort-yes)
+
 
 ---
 
