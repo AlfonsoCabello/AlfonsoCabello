@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Alfonso, a data scientist, creative coder and self-proclaimed designer who specializes in PowerBI. I make it my mission to solve business problems into efficient models with creative dashboards.
+I’m Alfonso, a data scientist, creative coder and self-proclaimed designer who specializes in PowerBI. I make it my mission to solve business problems -> To develop efficient solutions with creative dashboards.
 
 Want to know more about my PowerBI projects? [Check out my portfolio.](https://adobe.ly/3y6dIpz)
 
@@ -76,14 +76,12 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 ## Contents
 
 1. [Some ML Projects Because my masters at McGill was the best...](#)
-2. [Python Cool Concepts Because Knowing Them Is Cool...](#python-cool-concepts-because-knowing-them-is-cool)
 
 
 ---
 
-## Some ML Projects Because my masters at McGill was the best...
+## Some ML Projects Because my masters at McGill was the best... (⚠️ Updated weekly more projects to come)
 
 | Topic   |      Code      |
 |----------|:-------------:|
-| Kaggle Titanic Survival Predictions| [Repo]() |-------------------------------------) |
-| Haystack Search Engine on Arxiv Papers Dataset  | [Repo]()  |-------------------------------------) |
+| Jobster | [Repo]() |-------------------------------------) |
