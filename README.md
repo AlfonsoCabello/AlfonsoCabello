@@ -74,8 +74,6 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 ## Contents
 
 1. [Some ML Projects Because my masters at McGill was the best...](#)
-1.1 [Python 🐍🐍](#)
-1.2 [R ®️®️](#)
 
 ---
 
