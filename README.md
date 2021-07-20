@@ -79,13 +79,13 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 
 ## 1 - Some ML Projects Because my masters at McGill was the best... (⚠️ Updated weekly more projects to come)
 
-### 1.1 - Python 🐍🐍
+### Python 🐍🐍
 
 | Topic   |      Code      |
 |----------|:-------------:|
 | Jobster | [Repo](https://github.com/AlfonsoCabello/Jobster) |-------------------------------------) |
 
-### 1.2 - R ®️®️
+### R ®️®️
 
 | Topic   |      Code      |
 |----------|:-------------:|
