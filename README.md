@@ -132,7 +132,8 @@ Want to know more about my machine learning and deep learning projects? [Keep re
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
-
+<br>
+<br>
 
 
 # ⚠️ -Projects- under construction - Updating weekly! ⚠️
