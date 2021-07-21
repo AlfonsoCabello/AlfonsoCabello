@@ -74,6 +74,7 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 ## Contents
 
 1. [Some ML Projects Because my masters at McGill was the best...](#)
+2. [Some Deep Learning Projects (Everybody starts somewhere...)](#)
 
 ---
 
@@ -91,3 +92,12 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 |----------|:-------------:|
 | Shark Tank | [Repo](https://github.com/AlfonsoCabello/SharkTank) |-------------------------------------) |
 | IMDB Prediction Challenge | [Repo](https://github.com/AlfonsoCabello/IMDB_PredictionChallenge) |-------------------------------------) |
+
+## 2 - Some Deep Learning Projects (Everybody starts somewhere...) (⚠️ Updated weekly more projects to come)
+
+| Topic   |      Code      |
+|----------|:-------------:|
+| - | [Repo](-) |-------------------------------------) |
+| - | [Repo](-) |-------------------------------------) |
+
+
