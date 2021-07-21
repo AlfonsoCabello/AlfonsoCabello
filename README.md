@@ -29,28 +29,6 @@ Want to know more about my machine learning and deep learning projects? [Keep re
 
 ## 😎Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-DAX-informational?style=flat&logo=DAX&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=SCSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-
-
-<br>
-
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-AmazonS3-informational?style=flat&logo=AmazonS3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AzureSQLDatabase-informational?style=flat&logo=AzureSQLDatabase&logoColor=white&color=4AB197)
-
-<br>
-<br>
-
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -64,11 +42,11 @@ Want to know more about my machine learning and deep learning projects? [Keep re
   </a>
   &emsp;
   <a> 
-     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?logo=sql&logoColor=black">
+     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?logo=SQL&logoColor=black">
    </a>
   &emsp;
    <a> 
-     <img alt="DAX" src="https://img.shields.io/badge/dax%20-%23F7DF1E.svg?logo=dax&logoColor=black">
+     <img alt="DAX" src="https://img.shields.io/badge/DAX%20-%23F7DF1E.svg?logo=DAX&logoColor=black">
    </a>
   &emsp;
   <a> 
